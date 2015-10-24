@@ -1,4 +1,4 @@
 # courseraMachineLearning
 Stanford University's Machine Learning Course
 
-This repository contains code for the assignments completed during the course
+This repository contains matlab code written to complete the course assignments 
