@@ -1,4 +1,4 @@
-% Compute the cost functin for linear regression
+% Compute the cost function for linear regression
 function J = computeCost(X, y, theta)
 m = length(y); % number of training examples
 predictions = X*theta;
